@@ -1,0 +1,12 @@
+{
+  "name": "carepath",
+  "version": "1.0.0",
+  "description": "A web app providing head and neck cancer patients with easy access to their treatment journey and essential information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
