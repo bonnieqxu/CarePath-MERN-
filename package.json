@@ -2,12 +2,14 @@
   "name": "carepath",
   "version": "1.0.0",
   "description": "A web app providing head and neck cancer patients with easy access to their treatment journey and essential information.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "bonniexu",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
